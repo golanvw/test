@@ -11,6 +11,7 @@ namespace testetstestest
         static void Main(string[] args)
         {
             Console.WriteLine("github is cool");
+            Console.WriteLine("ict is cool, wij zijn de ict crew");
             Console.ReadKey();
         }
     }
